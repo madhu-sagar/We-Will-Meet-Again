@@ -1,0 +1,19 @@
+We'll Meet Again is an animated strip comedy written in OpenGL.
+The code can be compiled in linux with glut library installed.
+
+To compile
+
+1. Go the source code directory
+
+2. Execute the shell command
+
+   $gcc -projectfull.c -lglut -lGLU
+
+3.$./a.out
+
+In Visual Studio, Create a new project and paste the code and then execute. Make sure the 
+
+dependencies required are specified in the Project Properties->Input-> Linker.
+
+
+Licensed under Creative Commons Share-Alike Non-commercial Non-Derivative 2.5
